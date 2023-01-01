@@ -65,7 +65,7 @@ body {
       rgba(38, 40, 80, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url("./osaka.jpg");
+    url("../osaka.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
